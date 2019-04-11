@@ -5,9 +5,9 @@
   
   <link href="/AlJason.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/AlJason/AlJason.github.io.git/"/>
+  <link href="https://github.com/AlJason/AlJason.github.io/"/>
   <updated>2019-04-11T02:59:09.066Z</updated>
-  <id>https://github.com/AlJason/AlJason.github.io.git/</id>
+  <id>https://github.com/AlJason/AlJason.github.io/</id>
   
   <author>
     <name>AlJason</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/AlJason/AlJason.github.io.git/2019/04/10/hello-world/"/>
-    <id>https://github.com/AlJason/AlJason.github.io.git/2019/04/10/hello-world/</id>
+    <link href="https://github.com/AlJason/AlJason.github.io/2019/04/10/hello-world/"/>
+    <id>https://github.com/AlJason/AlJason.github.io/2019/04/10/hello-world/</id>
     <published>2019-04-10T10:36:06.795Z</published>
     <updated>2019-04-11T02:59:09.066Z</updated>
     
@@ -36,7 +36,7 @@
     </summary>
     
     
-      <category term="起始介绍" scheme="https://github.com/AlJason/AlJason.github.io.git/tags/%E8%B5%B7%E5%A7%8B%E4%BB%8B%E7%BB%8D/"/>
+      <category term="起始介绍" scheme="https://github.com/AlJason/AlJason.github.io/tags/%E8%B5%B7%E5%A7%8B%E4%BB%8B%E7%BB%8D/"/>
     
   </entry>
   
