@@ -3,11 +3,11 @@
   <title>AlJason&#39;s Blogs</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/AlJason.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://aljason.com/"/>
   <updated>2019-04-11T02:59:09.066Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://aljason.com/</id>
   
   <author>
     <name>AlJason</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/04/10/hello-world/"/>
-    <id>http://yoursite.com/2019/04/10/hello-world/</id>
+    <link href="https://aljason.com/2019/04/10/hello-world/"/>
+    <id>https://aljason.com/2019/04/10/hello-world/</id>
     <published>2019-04-10T10:36:06.795Z</published>
     <updated>2019-04-11T02:59:09.066Z</updated>
     
@@ -36,7 +36,7 @@
     </summary>
     
     
-      <category term="起始介绍" scheme="http://yoursite.com/tags/%E8%B5%B7%E5%A7%8B%E4%BB%8B%E7%BB%8D/"/>
+      <category term="起始介绍" scheme="https://aljason.com/tags/%E8%B5%B7%E5%A7%8B%E4%BB%8B%E7%BB%8D/"/>
     
   </entry>
   
