@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://aljason.com/"/>
-  <updated>2019-04-12T02:39:01.735Z</updated>
+  <updated>2019-04-12T11:00:10.679Z</updated>
   <id>https://aljason.com/</id>
   
   <author>
@@ -21,19 +21,17 @@
     <link href="https://aljason.com/2019/04/10/hello-world/"/>
     <id>https://aljason.com/2019/04/10/hello-world/</id>
     <published>2019-04-10T10:36:06.795Z</published>
-    <updated>2019-04-12T02:39:01.735Z</updated>
+    <updated>2019-04-12T11:00:10.679Z</updated>
     
-    <content type="html"><![CDATA[<p>在这篇文章中没有任何内容</p>]]></content>
+    <content type="html"><![CDATA[<p>在这篇文章中并没有展示实质性的内容，只是在告诉你这只是一个开始<br><a id="more"></a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;在这篇文章中没有任何内容&lt;/p&gt;
-
-      
+      &lt;p&gt;在这篇文章中并没有展示实质性的内容，只是在告诉你这只是一个开始&lt;br&gt;
     
     </summary>
+    
+      <category term="前端" scheme="https://aljason.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
       <category term="起始介绍" scheme="https://aljason.com/tags/%E8%B5%B7%E5%A7%8B%E4%BB%8B%E7%BB%8D/"/>

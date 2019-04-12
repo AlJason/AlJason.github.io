@@ -3,7 +3,10 @@
   <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F04%2F10%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[在这篇文章中没有任何内容]]></content>
+    <content type="text"><![CDATA[在这篇文章中并没有展示实质性的内容，只是在告诉你这只是一个开始]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
       <tags>
         <tag>起始介绍</tag>
       </tags>

@@ -2,30 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://aljason.com/2019/04/10/hello-world/</loc>
-    
-    <lastmod>2019-04-12T02:39:01.735Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aljason.com/about/index.html</loc>
-    
-    <lastmod>2019-04-11T11:25:49.314Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://aljason.com/tags/index.html</loc>
     
-    <lastmod>2019-04-11T10:07:42.028Z</lastmod>
+    <lastmod>2019-04-12T12:02:34.478Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://aljason.com/categories/index.html</loc>
     
-    <lastmod>2019-04-11T10:06:03.325Z</lastmod>
+    <lastmod>2019-04-12T12:02:01.291Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aljason.com/2019/04/10/hello-world/</loc>
+    
+    <lastmod>2019-04-12T11:00:10.679Z</lastmod>
     
   </url>
   
