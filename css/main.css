@@ -1893,7 +1893,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c21240;
+  background: #8bff74;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3274,7 +3274,12 @@ div.vedit {
 body {
   background-color: #fff; /*Default bg, similar to the background's base color*/
   background-image: url("/images/background2.jpg");
-  background-size: 100%; /*Positioning*/
   background-attachment: fixed;
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
+  background-position: 50% 50%;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
 }
