@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Blog搭建经验分享]]></title>
     <url>%2F2019%2F04%2F14%2Fpassage1%2F</url>
-    <content type="text"><![CDATA[【前言】本博客的创建并不是完全由自己创造出来的，而是在借鉴前人的经验基础上，不断发现问题解决问题，不断完善而成的。这篇文章主要是为了将创建本博客过程中所参考的文章以及在创建过程当中所遇到问题的解决经验或者方法进行一个分享。 使用工具GithubNode.jsHexo Hexo基础开发 使用Hexo+Github一步步搭建属于自己的博客（基础）在这篇基础教程中存在着几点需要注意的地方第3点，创建Github项目仓库时，需要将仓库名与Github账号名保持一致，这样在后续的博客部署过程中才不会出现一些没必要的错误第3点，在对Github Pages进行配置的时候，如果在创建仓库的时候没有把Source创建在master branch下，那么就有在设置时将其选为master branch。第5点，在创建id_rsa时，可以根据自己的需要设置属于自己的密钥第6点，在配置 Deployment时，由于.yml文件对于格式的要求非常严格，所以在配置的时候，在“type：”前面有两个空格，后面有一个空格Hexo进阶开发使用Hexo+Github一步步搭建属于自己的博客（进阶）在这篇进阶开发的文章中，介绍了以Next主题为例的Hexo主题配置问题以及部分美化主题的操作Hexo的Next主题个性化教程:打造炫酷网站Valine评论系统Valine评论框样式美化去除valine的Powered By本博客使用的主题——MateryHexo博客主题之hexo-theme-matery的介绍]]></content>
+    <content type="text"><![CDATA[【前言】本博客的创建并不是完全由自己创造出来的，而是在借鉴前人的经验基础上，不断发现问题解决问题，不断完善而成的。这篇文章主要是为了将创建本博客过程中所参考的文章以及在创建过程当中所遇到问题的解决经验或者方法进行一个分享。 使用工具GithubNode.jsHexo Hexo基础开发 使用Hexo+Github一步步搭建属于自己的博客（基础）在这篇基础教程中存在着几点需要注意的地方:第3点，创建Github项目仓库时，需要将仓库名与Github账号名保持一致，这样在后续的博客部署过程中才不会出现一些没必要的错误第3点，在对Github Pages进行配置的时候，如果在创建仓库的时候没有把Source创建在master branch下，那么就有在设置时将其选为master branch。第5点，在创建id_rsa时，可以根据自己的需要设置属于自己的密钥第6点，在配置 Deployment时，由于.yml文件对于格式的要求非常严格，所以在配置的时候，在“type：”前面有两个空格，后面有一个空格Hexo进阶开发使用Hexo+Github一步步搭建属于自己的博客（进阶）在这篇进阶开发的文章中，介绍了以Next主题为例的Hexo主题配置问题以及部分美化主题的操作Hexo的Next主题个性化教程:打造炫酷网站Valine评论系统Valine评论框样式美化去除valine的Powered By本博客使用的主题——MateryHexo博客主题之hexo-theme-matery的介绍]]></content>
       <categories>
         <category>前端，hexo</category>
       </categories>
