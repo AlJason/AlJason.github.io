@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aljason.com/2019/04/14/passage1/</loc>
+    
+    <lastmod>2019-04-14T04:24:35.750Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://aljason.com/friends/index.html</loc>
     
     <lastmod>2019-04-13T10:07:09.514Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://aljason.com/categories/index.html</loc>
     
     <lastmod>2019-04-13T09:43:02.084Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aljason.com/2019/04/10/hello-world/</loc>
-    
-    <lastmod>2019-04-12T11:00:10.679Z</lastmod>
     
   </url>
   
