@@ -230,19 +230,22 @@ header .side-nav .mobile-head {
 }
 
 header .side-nav .mobile-head img {
-    margin-top: 30px;
+	margin-top: 20px;
+	margin-left: 65px;
     width: 75px;
     height: 75px;
 }
 
 header .side-nav .mobile-head .logo-name {
     margin-top: -30px;
+    text-align: center;
     padding-left: 10px;
     font-size: 1.5rem;
 }
 
 header .side-nav .mobile-head .logo-desc {
     margin-top: -10px;
+    text-align: center;
     padding-left: 10px;
     padding-bottom: 10px;
     font-size: 0.8rem;
@@ -262,14 +265,14 @@ header .side-nav .menu-list a {
 }
 
 .mobile-menu-list a i {
-    margin-left: 8px !important;
+    margin-left: 30px !important;
     font-size: 1.16rem;
     color: #34495e !important;
 }
 
 header .side-nav .fa-fw {
-    width: 3.3rem;
-    text-align: left;
+    width: 48px;
+    text-align: center;
 }
 
 header .side-nav .social-link {
